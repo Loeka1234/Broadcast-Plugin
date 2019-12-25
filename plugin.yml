@@ -1,0 +1,11 @@
+main: me.Loeka.Broadcast.Main
+name: BroadcastPlugin
+version: 1.0
+author: Loeka
+description: Plugin for broadcasting to the server!
+commands:
+  broadcast:
+   description: Broadcast to the server!
+   permission: Broadcast.broadcast
+   usage: /<command> message
+  
